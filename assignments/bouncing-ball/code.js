@@ -20,7 +20,7 @@ let ballSize = 20;
 const drawFrame = (time) => {};
 
 // Compute the height in pixels at time t after the ball hit the ground
-const height = (t) => 0;
+const height = (t) => 40;
 
 // Compute the shade of the shadow. 0 is black; 255 is white.
 const shadowDarkness = (h) => 0;
