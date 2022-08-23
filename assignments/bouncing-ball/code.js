@@ -29,4 +29,4 @@ const shadowDarkness = (h) => 0;
 const shadowSize = (h) => 0;
 
 // Call the animate function from the framework.
-animate(drawFrame);
+animate(circle);
