@@ -106,5 +106,11 @@
     "answer": "inTheClass && ! isProcter",
     "correct": false,
     "timestamp": 1661552616677
+  },
+  {
+    "name": "In the room where it happens?",
+    "answer": "inTheClass || isProcter",
+    "correct": false,
+    "timestamp": 1661552623933
   }
 ]
