@@ -124,5 +124,12 @@
     "answer": "fieLit || ! haveMatches",
     "correct": false,
     "timestamp": 1661896271358
+  },
+  {
+    "name": "Lighting a fire?",
+    "canonical": "fireLit || !haveMatches",
+    "answer": "fieLit && ! haveMatches",
+    "correct": false,
+    "timestamp": 1661896278102
   }
 ]
