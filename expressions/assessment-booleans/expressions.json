@@ -180,5 +180,12 @@
     "answer": "! inTheClass && isProcter",
     "correct": false,
     "timestamp": 1661896390243
+  },
+  {
+    "name": "In the room where it happens?",
+    "canonical": "inTheClass || isProctor",
+    "answer": " inTheClass && isProctor",
+    "correct": false,
+    "timestamp": 1661896416211
   }
 ]
