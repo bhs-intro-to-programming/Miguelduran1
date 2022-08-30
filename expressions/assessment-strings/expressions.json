@@ -1,0 +1,9 @@
+[
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "tpUppercase()",
+    "correct": false,
+    "timestamp": 1661897280191
+  }
+]
