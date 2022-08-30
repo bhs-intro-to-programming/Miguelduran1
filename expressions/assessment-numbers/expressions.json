@@ -187,5 +187,19 @@
     "answer": "a/b",
     "correct": false,
     "timestamp": 1661897406147
+  },
+  {
+    "name": "Remainder",
+    "canonical": "a % b",
+    "answer": "a/b",
+    "correct": false,
+    "timestamp": 1661897406348
+  },
+  {
+    "name": "Remainder",
+    "canonical": "a % b",
+    "answer": "A/B",
+    "correct": false,
+    "timestamp": 1661897495727
   }
 ]
