@@ -68,5 +68,12 @@
     "answer": "Math.Pi",
     "correct": false,
     "timestamp": 1661896941454
+  },
+  {
+    "name": "Area of circle with radius 2",
+    "canonical": "Math.PI * 4",
+    "answer": "Math.PI*2",
+    "correct": false,
+    "timestamp": 1661896955101
   }
 ]
