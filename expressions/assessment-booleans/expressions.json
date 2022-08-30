@@ -47,5 +47,12 @@
     "answer": "! sleepy || ! dark",
     "correct": true,
     "timestamp": 1661895888279
+  },
+  {
+    "name": "Can pay attention?",
+    "canonical": "!hungry && interested",
+    "answer": "! hungry && interested",
+    "correct": true,
+    "timestamp": 1661895912399
   }
 ]
