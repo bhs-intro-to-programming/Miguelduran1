@@ -250,5 +250,12 @@
     "answer": "Math.abs(x1-x2)+Math.abs(y1-y2)",
     "correct": true,
     "timestamp": 1661897855392
+  },
+  {
+    "name": "Seconds in a day",
+    "canonical": "24 * 60 * 60",
+    "answer": "86400",
+    "correct": true,
+    "timestamp": 1661897883119
   }
 ]
