@@ -26,5 +26,12 @@
     "answer": "(a+b)/2",
     "correct": true,
     "timestamp": 1661896765548
+  },
+  {
+    "name": "1337 times 32",
+    "canonical": "1337 * 32",
+    "answer": "1357*32",
+    "correct": false,
+    "timestamp": 1661896780202
   }
 ]
