@@ -68,5 +68,26 @@
     "answer": "! fun && tired",
     "correct": false,
     "timestamp": 1662588152089
+  },
+  {
+    "name": "Not feeling it?",
+    "canonical": "!fun || tired",
+    "answer": "! fun && tired",
+    "correct": false,
+    "timestamp": 1662588152257
+  },
+  {
+    "name": "Not feeling it?",
+    "canonical": "!fun || tired",
+    "answer": "! fun && tired",
+    "correct": false,
+    "timestamp": 1662588152417
+  },
+  {
+    "name": "Not feeling it?",
+    "canonical": "!fun || tired",
+    "answer": "! fun || tired",
+    "correct": true,
+    "timestamp": 1662588158561
   }
 ]
