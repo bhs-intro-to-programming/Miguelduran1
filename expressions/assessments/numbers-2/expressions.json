@@ -26,5 +26,12 @@
     "answer": "(a+b)/2",
     "correct": true,
     "timestamp": 1663191765671
+  },
+  {
+    "name": "Product",
+    "canonical": "a * b",
+    "answer": "a*b",
+    "correct": true,
+    "timestamp": 1663191830041
   }
 ]
