@@ -68,5 +68,12 @@
     "answer": "Math.PI*2**2",
     "correct": true,
     "timestamp": 1663215302274
+  },
+  {
+    "name": "Sum",
+    "canonical": "a + b",
+    "answer": "a+b",
+    "correct": true,
+    "timestamp": 1663215312267
   }
 ]
