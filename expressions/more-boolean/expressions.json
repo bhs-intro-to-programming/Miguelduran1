@@ -159,5 +159,19 @@
     "answer": "! inTheClass && ! isProcter",
     "correct": false,
     "timestamp": 1663988769932
+  },
+  {
+    "name": "In the room where it happens?",
+    "canonical": "inTheClass || isProctor",
+    "answer": "! inTheClass && ! isProcter",
+    "correct": false,
+    "timestamp": 1663988770206
+  },
+  {
+    "name": "In the room where it happens?",
+    "canonical": "inTheClass || isProctor",
+    "answer": "! inTheClass && ! isProcter",
+    "correct": false,
+    "timestamp": 1663988770507
   }
 ]
