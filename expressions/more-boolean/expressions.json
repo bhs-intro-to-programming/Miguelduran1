@@ -12,5 +12,12 @@
     "answer": "! storeOpen || ! isASale",
     "correct": true,
     "timestamp": 1663989402567
+  },
+  {
+    "name": "Ready for some football?",
+    "canonical": "fast && strong",
+    "answer": "fast && strong",
+    "correct": true,
+    "timestamp": 1664229800679
   }
 ]
